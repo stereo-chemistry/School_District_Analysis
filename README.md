@@ -67,7 +67,7 @@ The purpose of this project is to clean and adjust the student dataset, then pro
   * No changes appear in this data
 * Figure 14: Scores by School Type prior to replacing Thomas High School's 9th grade scores with NaN
 
-![](Resources/
+![](Resources/Scores_By_School_Type_Prior_NaN_Replacement.png)
 
 * Figure 15: Scores by School Type after replacing Thomas High Schools's 9th grade scores with NaN
 
