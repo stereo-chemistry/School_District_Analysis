@@ -15,4 +15,9 @@ The purpose of this project is to clean and adjust the student dataset, then pro
     * % Passing Math decreased from 93.3 to 93.2
     * % Passing Reading decreased from 97.3 to 97.0
     * % Overall Passing decreased from 90.9 to 90.6
+* Figure 5: Top Five Schools prior to replacing Thomas High School's 9th grade scores with NaN
+* Figure 6: Top Five Schools after replacing Thomas High School's 9th grade scores with NaN
+  * Relative to the other schools, replacing Thomas High School's 9th graders' scores with NaN did not change Thomas High School's position #2 in the top 5 performing schools.
+* Figures 7 & 8: Math & Reading Scores prior to replacing Thomas High School's 9th grade scores with NaN
+* Figures 8 & 9: Math & Reading Scores after replacing Thomas High School's 9th grade scores with NaN
 ## Summary
