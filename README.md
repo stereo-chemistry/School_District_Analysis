@@ -20,5 +20,14 @@ The purpose of this project is to clean and adjust the student dataset, then pro
   * Relative to the other schools, replacing Thomas High School's 9th graders' scores with NaN did not change Thomas High School's position #2 in the top 5 performing schools.
 * Figures 7 & 8: Math & Reading Scores prior to replacing Thomas High School's 9th grade scores with NaN
 * Figures 8 & 9: Math & Reading Scores after replacing Thomas High School's 9th grade scores with NaN
-  * After changing Thomas High School's 9th grade scores with NaN, the only changes to the Math & Reading Scores by Grade are that Thomas High School now reports NaN for their 9th     graders' math & reading scores
+  * After changing Thomas High School's 9th grade scores with NaN, the only changes to the Math & Reading Scores by Grade are that Thomas High School now reports NaN for their 9th graders' math & reading scores
+* Figure 10: Scores by School Spending prior to replacing Thomas High School's 9th grade scores with NaN
+* Figure 11: Scores by School Spending after replacing Thomas High School's 9th grade scores with NaN
+  * No changes appear in this data
+* Figure 12: Scores by School Size prior to replacing Thomas High School's 9th grade scores with NaN
+* Figure 13: Scores by School Size after replacing Thomas High School's 9th grade scores with NaN
+  * No changes appear in this data
+* Figure 14: Scores by School Type prior to replacing Thomas High School's 9th grade scores with NaN
+* Figure 15: Scores by School Type after replacing Thomas High Schools's 9th grade scores with NaN
+  * No changes appear in this data
 ## Summary
