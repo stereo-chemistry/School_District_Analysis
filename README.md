@@ -20,4 +20,5 @@ The purpose of this project is to clean and adjust the student dataset, then pro
   * Relative to the other schools, replacing Thomas High School's 9th graders' scores with NaN did not change Thomas High School's position #2 in the top 5 performing schools.
 * Figures 7 & 8: Math & Reading Scores prior to replacing Thomas High School's 9th grade scores with NaN
 * Figures 8 & 9: Math & Reading Scores after replacing Thomas High School's 9th grade scores with NaN
+  * After changing Thomas High School's 9th grade scores with NaN, the only changes to the Math & Reading Scores by Grade are that Thomas High School now reports NaN for their 9th     graders' math & reading scores
 ## Summary
