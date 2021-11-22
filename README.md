@@ -31,3 +31,4 @@ The purpose of this project is to clean and adjust the student dataset, then pro
 * Figure 15: Scores by School Type after replacing Thomas High Schools's 9th grade scores with NaN
   * No changes appear in this data
 ## Summary
+After replacing Thomas High School's 9th grade scores with NaN, the average reading score for Thomas High School in the school summary increased. Additionally, the district's average math score increased. In order to achieve these new values, the total student count in the district was reduced by subtracting the number of 9th graders at Thomas High School from the total number of students in the district, changing the student count with which we used to calculate new percentages of passing students. Internal changes in Thomas High School's percentages of passing students is due to a change in the number of students used to calculate their results; 9th grade students subtracted from all students at Thomas High School.
