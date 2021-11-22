@@ -11,8 +11,8 @@ The purpose of this project is to clean and adjust the student dataset, then pro
 * Figure 3: School Summary prior to replacing Thomas High School's 9th grade scores with NaN
 * Figure 4: School Summary after replacing Thomas High School's 9th grade scores with NaN
   * After replacing Thomas High School's 9th grader scores with NaN, in School Summary, Thomas High School's:
-   * Average Reading Score increased from 83.4 to 83.9
-   * % Passing Math decreased from 93.3 to 93.2
-   * % Passing Reading decreased from 97.3 to 97.0
-   * % Overall Passing decreased from 90.9 to 90.6
+    * Average Reading Score increased from 83.4 to 83.9
+    * % Passing Math decreased from 93.3 to 93.2
+    * % Passing Reading decreased from 97.3 to 97.0
+    * % Overall Passing decreased from 90.9 to 90.6
 ## Summary
